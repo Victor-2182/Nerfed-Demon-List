@@ -1,23 +1,5 @@
 {
   "levels": {
-    "grief": {
-      "name": "#1- GRIEF",
-      "img": "grief.jpg",
-      "uploadedBy":"Username",
-      "id": "ID",
-      "points": 50,
-      "victors": {
-      }
-    },
-    "thinkingSpace2": {
-      "name": "#2- Thinking Space II",
-      "img": "ts2.jpg",
-      "uploadedBy":"Username",
-      "id": "ID",
-      "points": 40,
-      "victors": {
-      }
-    },
     "nullscapes": {
       "name": "#3- Nullscapes",
       "img": "nullscapes.jpg",
