@@ -1,0 +1,63 @@
+{
+  "levels": {
+    "grief": {
+      "name": "#1- GRIEF",
+      "img": "grief.jpg",
+      "uploadedBy":"Username",
+      "id": "ID",
+      "points": 50,
+      "victors": {
+        "firstVictor": "Random Gamer",
+        "secondVictor": "Bob"
+      }
+    },
+    "thinkingSpace2": {
+      "name": "#2- Thinking Space II",
+      "img": "ts2.jpg",
+      "uploadedBy":"Username",
+      "id": "ID",
+      "points": 40,
+      "victors": {
+        "firstVictor": "Random Gamer",
+        "secondVictor": "Bob"
+      }
+    },
+    "nullscapes": {
+      "name": "#3- Nullscapes",
+      "img": "nullscapes.jpg",
+      "uploadedBy":"Username",
+      "id": "ID",
+      "points": 30,
+      "victors": {
+        "firstVictor": "Random Gamer",
+        "secondVictor": "Bob"
+      }
+    }
+  },
+  "players": {
+    "randomGamer": {
+        "name": "Random Gamer",
+      "points": 120,
+      "completions": [
+        "Nullscapes",
+        "Thinking Space II",
+        "GRIEF"
+      ]
+    },
+    "Bob": {
+        "name": "Bob",
+        "points":90,
+        "completions": [
+        "Thinking Space II",
+        "GRIEF"
+      ]
+    },
+    "Zonk": {
+        "name": "Zonk",
+        "points":40,
+        "completions": [
+        "Thinking Space II"
+      ]
+    }
+  }
+}
